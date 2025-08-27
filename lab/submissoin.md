@@ -1,3 +1,3 @@
 # "Hello IST 707!"
 
-![Adding an image](https://drive.google.com/file/d/1bEbvQ2wjWYO5iWZrNfN0UFTucPIVCYng/view?usp=drive_link)
+![Adding an image](file:///C:/Users/PRASAD/Desktop/Syracuse/Academic/IST707.ML/Week%2001/image01.webp)
